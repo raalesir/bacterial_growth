@@ -2,3 +2,4 @@ jupyter
 numpy
 matplotlib
 scipy
+ipyvolume==0.6.0a10
